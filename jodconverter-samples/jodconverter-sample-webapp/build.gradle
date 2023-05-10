@@ -11,7 +11,7 @@ description = 'JODConverter - Sample Web Application'
 
 ext {
     commonsFileUploadVersion = '1.4'
-    springBootVersion = '2.7.3'
+    springBootVersion = '2.7.11'
 }
 
 java {
